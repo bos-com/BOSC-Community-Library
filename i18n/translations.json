@@ -1,0 +1,23 @@
+{
+  "en": {
+    "welcome": "Welcome to BOSC Community Library",
+    "contribute": "Contribute",
+    "docs": "Documentation",
+    "license": "License",
+    "contact": "Contact"
+  },
+  "lg": {
+    "welcome": "Welcoma ku BOSC Community Library",
+    "contribute": "Ikola",
+    "docs": "Ebikwata ku bya Technical",
+    "license": "Lisensia",
+    "contact": "Okufuna obuja"
+  },
+  "sw": {
+    "welcome": "Karibu kwenye Maktaba ya BOSC",
+    "contribute": "Changia",
+    "docs": "Hati za Kiufundi",
+    "license": "Leseni",
+    "contact": "Wasiliana"
+  }
+}
